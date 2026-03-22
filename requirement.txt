@@ -8,5 +8,6 @@ pinecone-client
 plotly
 numpy
 soundfile
-streamlit-webrtc
+libsndfile
 ffmpeg-python
+torch
