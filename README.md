@@ -63,6 +63,11 @@ Access the live deployed app here:
 https://ai-call-analytics-xhdbozctzbym3j4nfrevba.streamlit.app/
 
 Screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-03-23 003009" src="https://github.com/user-attachments/assets/62b2c8fa-b2a0-4bc4-825c-94068277a15a" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-23 003029" src="https://github.com/user-attachments/assets/ee648be8-6aa9-4ce3-9bf7-58e172d7bd3c" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-23 003106" src="https://github.com/user-attachments/assets/779b79db-0334-4ac7-ad33-6667e00ccf61" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-23 003116" src="https://github.com/user-attachments/assets/d5b02b69-bfb0-4654-867a-1886036e2972" />
 
 (You can add screenshots or GIF demos here to make your README more attractive)
 
