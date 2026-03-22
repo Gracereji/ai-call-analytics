@@ -1,0 +1,15 @@
+streamlit
+whisper
+torch
+ffmpeg-python
+numpy
+plotly
+soundfile
+scipy
+langchain
+langchain_groq
+langchain_community
+langchain_pinecone
+pinecone-client
+sentence-transformers
+streamlit-webrtc
